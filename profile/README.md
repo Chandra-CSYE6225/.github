@@ -12,7 +12,7 @@ The architecture emphasizes immutability, least-privilege identity, encryption a
 
 ## Architecture Diagram
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./Architecture.png)
 
 
 
