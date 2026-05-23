@@ -14,7 +14,7 @@ The architecture emphasizes immutability, least-privilege identity, encryption a
 
 ![Architecture Diagram](./architecture.png)
 
-> The editable source is in [`architecture.drawio`](./architecture.drawio) — open it at [app.diagrams.net](https://app.diagrams.net) or with the **Draw.io Integration** VS Code extension. To regenerate the PNG: open the `.drawio` file then **File → Export As → PNG** at 2x scale.
+
 
 ---
 
